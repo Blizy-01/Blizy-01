@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Blessing.
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning backend with MongoDB
-- 💞️ I’m looking to collaborate on projects involving web deleopment
+- 💞️ I’m looking to collaborate on projects involving web development
 - 📫 Reach me via Telegram @Blizy01
 
 <!---
